@@ -10,4 +10,18 @@ PS - I saw this Github, Collaborators have commit access? and looked at https://
 
 I am looking to collaborate with another person but not able to figure out how github works ? I have a private repo and I have added him as collaborator, now what ?
 
+Does he have to create a branch to which he will work separately ?
+how will the merge take place ?
+how will the merge take place ? who can merge the code ?
+PS - I saw this Github, Collaborators have commit access? and looked at https://github.com/account/organizations/new, so basically unless I pay $25/month, I can't have someone not see the whole Master branch code ?
+ am new to github and have few questions :)
+
+I am looking to collaborate with another person but not able to figure out how github works ? I have a private repo and I have added him as collaborator, now what ?
+
+Does he have to create a branch to which he will work separately ?
+how will the merge take place ?
+how will the merge take place ? who can merge the code ?
+PS - I saw this Github, Collaborators have commit access? and looked at https://github.com/account/organizations/new, so basically unless I pay $25/month, I can't have someone not see the whole Master branch code ?
+
+
 
